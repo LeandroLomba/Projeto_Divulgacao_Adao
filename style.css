@@ -47,12 +47,12 @@ a {
 .brand {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
 }
 
 .brand img {
-  width: 42px;
-  height: 42px;
+  width: 82px;
+  height: 72px;
   object-fit: contain;
 }
 
